@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project_group_6/",
+    "build": "vite build --base=/fs120_html-css_nikolka44/",
     "preview": "vite preview"
   },
   "devDependencies": {
